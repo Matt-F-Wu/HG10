@@ -7,7 +7,7 @@ This dataset consists of 10 hand gestures:
 5. camera
 6. 5_finger_closed
 7. rock_on
-8. thumbs_up
+8. thumb_up
 9. yeah
 10. pinky
 
