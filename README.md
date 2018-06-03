@@ -1,11 +1,11 @@
 This dataset consists of 10 hand gestures:
 
-1. 5_fingers_open
+1. 5_finger_open
 2. okay
 3. hand_gun
 4. point
 5. camera
-6. 5_fingers_closed
+6. 5_finger_closed
 7. rock_on
 8. thumbs_up
 9. yeah
